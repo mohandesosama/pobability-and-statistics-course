@@ -35,7 +35,7 @@ After completing this course the student will be able to:
 * **Chapter 7** :Hypothesis testing
 
 ## Lab
-The practical session aims to make students able to solve mathematical exercises using mathematical software such as SPSS, Minitab and R
+The practical session aims to make students able to solve mathematical exercises using mathematical software such as SPSS, Minitab and R, (https://octave-online.net/)
 
 ## Textbooks:
 * Ronald E. Walpole & others ( ) "Probability and Statistics for Engineers and Scientists ", th edition, Pearson Prentice Hall.
