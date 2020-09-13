@@ -26,8 +26,8 @@ After completing this course the student will be able to:
 * Basic concepts in testing statistical hypotheses
 
 ## Videos
-* **Chapter One** :Data representation 
-* **Chapter Two** :Counting Sample Events 
+* **Chapter 1** :Data representation 
+* **Chapter 2** :Counting Sample Events 
 * **Chapter 3** :Probability of an Event 
 * **Chapter 4** :Random Variables and their Expected Values
 * **Chapter 5** :Discrete & Continuous Distributions 
