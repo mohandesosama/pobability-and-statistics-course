@@ -26,7 +26,7 @@ After completing this course the student will be able to:
 * Basic concepts in testing statistical hypotheses
 
 ## Videos
-* **Chapter 1** :Data representation 
+* **Chapter 1** :Data representation [[Video1](https://youtu.be/IXNsmIdo4yI)][[Video2](https://youtu.be/EctUwgd67Vw)]
 * **Chapter 2** :Counting Sample Events 
 * **Chapter 3** :Probability of an Event 
 * **Chapter 4** :Random Variables and their Expected Values
