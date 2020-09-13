@@ -32,6 +32,7 @@ After completing this course the student will be able to:
 * **Chapter 4** :Random Variables and their Expected Values
 * **Chapter 5** :Discrete & Continuous Distributions 
 * **Chapter 6** :Parameter Estimation 
+* **Chapter 7** :Hypothesis testing
 
 ## Lab
 The practical session aims to make students able to solve mathematical exercises using mathematical software such as SPSS, Minitab and R
