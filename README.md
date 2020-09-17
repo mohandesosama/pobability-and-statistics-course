@@ -27,7 +27,7 @@ After completing this course the student will be able to:
 
 ## Videos
 * **Chapter 1** :Data representation [[Video1](https://youtu.be/IXNsmIdo4yI)][[Video2](https://youtu.be/EctUwgd67Vw)]
-* **Chapter 2** :Counting Sample Events [[Video1](https://youtu.be/2wDcLszDdLQ)]
+* **Chapter 2** :Counting Sample Events [[Video1](https://youtu.be/2wDcLszDdLQ)][[Video2](https://youtu.be/sGv1mgWvsWQ)]
 * **Chapter 3** :Probability of an Event 
 * **Chapter 4** :Random Variables and their Expected Values
 * **Chapter 5** :Discrete & Continuous Distributions 
