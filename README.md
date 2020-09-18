@@ -38,5 +38,5 @@ After completing this course the student will be able to:
 The practical session aims to make students able to solve mathematical exercises using mathematical software such as SPSS, Minitab and R, (https://octave-online.net/)
 
 ## Textbooks:
-* Ronald E. Walpole & others ( ) "Probability and Statistics for Engineers and Scientists ", th edition, Pearson Prentice Hall.
+* Ronald E. Walpole & others ( _) "Probability and Statistics for Engineers and Scientists ", th edition, Pearson Prentice Hall.
 * David W. Stockburger ( ): Introductory statistics: concepts, models and applications, rd edition, Atomic Dog Publishing.
