@@ -28,7 +28,7 @@ After completing this course the student will be able to:
 ## Videos
 * **Chapter 1** :Data representation [[PDF Class Notes](./Class_Notes/chapt1%20Books%20Template-version%20Jan2020.pdf)] [[Video1](https://youtu.be/IXNsmIdo4yI)][[Video2](https://youtu.be/EctUwgd67Vw)]
 * **Chapter 2** :Counting Sample Events [[PDF Class Notes](./Class_Notes/chpat2_Template-version%20Jan2020-2.pdf)][[Video1](https://youtu.be/2wDcLszDdLQ)][[Video2](https://youtu.be/sGv1mgWvsWQ)]
-* **Chapter 3** :Probability of an Event 
+* **Chapter 3** :Probability of an Event [[PDF Class Notes]](./Class_Notes/chapt3_Template-version%20Jan2020.pdf)[[Video1]](https://youtu.be/qPSh2kQfGgM)
 * **Chapter 4** :Random Variables and their Expected Values
 * **Chapter 5** :Discrete & Continuous Distributions 
 * **Chapter 6** :Parameter Estimation 
