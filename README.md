@@ -30,7 +30,7 @@ After completing this course the student will be able to:
 * **Chapter 2** :Counting Sample Events [[PDF Class Notes](./Class_Notes/chpat2_Template-version%20Jan2020-2.pdf)][[Video1](https://youtu.be/2wDcLszDdLQ)][[Video2](https://youtu.be/sGv1mgWvsWQ)]
 * **Chapter 3** :Probability of an Event [[PDF Class Notes](./Class_Notes/chapt3_Template-version%20Jan2020.pdf)][[Video1](https://youtu.be/qPSh2kQfGgM)][[Video2](https://youtu.be/CG9QVku6LWE)][[Video3](https://youtu.be/yNWzW1tvHA4)]
 * **Chapter 4** :Random Variables and their Expected Values [[PDF Class Notes](./Class_Notes/chapter4-Template-version%20Jan2020.pdf)][[Video1](https://youtu.be/cTDudRjWV64)][[Video2](https://youtu.be/IVqByQrjgeM)][[Video3](https://youtu.be/qqEBfymJ0lU)]
-* **Chapter 5** :Discrete & Continuous Distributions [[PDF Class Notes](./Class_Notes/chapt5-%20Part%20II%20chapters%205%20to%208.pdf)]
+* **Chapter 5** :Discrete & Continuous Distributions [[PDF Class Notes](./Class_Notes/chapt5-%20Part%20II%20chapters%205%20to%208.pdf)][[Video1](https://youtu.be/cnnQxMharEM)]
 * **Chapter 6** :Parameter Estimation 
 * **Chapter 7** :Hypothesis testing
 
