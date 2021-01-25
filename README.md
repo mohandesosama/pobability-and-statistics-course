@@ -42,5 +42,3 @@ The practical session aims to make students able to solve mathematical exercises
 * Ronald E. Walpole & others ( _) "Probability and Statistics for Engineers and Scientists ", th edition, Pearson Prentice Hall.
 * David W. Stockburger ( ): Introductory statistics: concepts, models and applications, rd edition, Atomic Dog Publishing.
 
-## References:
-* ECE 3530/CS 3130 - [Engineering Probability and Statistics](https://my.ece.utah.edu/~ece3530/)
