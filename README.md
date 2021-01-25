@@ -32,7 +32,8 @@ After completing this course the student will be able to:
 * **Chapter 4** :Random Variables and their Expected Values [[PDF Class Notes](./Class_Notes/chapter4-Template-version%20Jan2020.pdf)][[Video1](https://youtu.be/cTDudRjWV64)][[Video2](https://youtu.be/IVqByQrjgeM)][[Video3](https://youtu.be/qqEBfymJ0lU)]
 * **Chapter 5** :Discrete & Continuous Distributions [[PDF Class Notes](./Class_Notes/chapt5-%20Part%20II%20chapters%205%20to%208.pdf)][[Video1](https://youtu.be/cnnQxMharEM)][[Video2](https://youtu.be/llIu9hQLBaw)]
 * **Chapter 6** :Sampling Distribution [[PDF Class Notes](./Class_Notes/chapt5-samplingdistribution.pdf)][[Video1](https://youtu.be/Jp4Q82NB99M)]
-* **Chapter 7** :Hypothesis testing
+* **Chapter 7** :Parameter Estimation [[PDF Class Notes](./Class_Notes/Chapt7%20Pages%20from%20Statistics%20Notes%20-%20Part%20II%20chapters%205%20to%208.pdf)]
+* **Chapter 8** :Hypothesis Testing and Linear Regression [[PDF Class Notes](./Class_Notes/Chapt8-Pages%20from%20Statistics%20Notes%20-%20Part%20II%20chapters%205%20to%208-2.pdf)]
 
 ## Lab
 The practical session aims to make students able to solve mathematical exercises using mathematical software such as SPSS, Minitab and R, (https://octave-online.net/)
